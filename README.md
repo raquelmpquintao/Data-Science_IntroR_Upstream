@@ -7,15 +7,13 @@
 ## Formadores
    Carina Silva (ESTeSL-IPL) e Ricardo Ribeiro(ESTeSL-IPL)
    
-   
- 
 
-## *Objetivos*
-Fornecer informações básicas do _software_ estatístico R. O curso é considerado de nível básico, pois apresenta apenas a forma de utilização de ferramentas úteis.
 
-## 
+## Objetivos
+Fornecer informações básicas do _software_ estatístico ![RStudio's logo](https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png){width=25%}. O curso é considerado de nível básico, pois apresenta apenas a forma de utilização de ferramentas úteis.
 
-Programa
-O curso é destinado para estudantes que já conhecem ou desejam conhecer o software estatístico R e é focado em ferramentas para aumento da produtividade em análises estatísticas, tanto em relação ao tratamento de dados e análise exploratória quanto à produção de relatórios e apresentações. Por utilizar tecnologias de fronteira, o curso mostra uma parte muito importante do R que muitas vezes é desconhecida até mesmo por programadores experientes na linguagem.
+## Programa
+
+
 
 O curso está estruturado em dois módulos, descritos abaixo.
