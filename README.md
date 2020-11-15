@@ -1,5 +1,7 @@
 # Introdução-Linguagem-de-Programação-em-R
 
+
+
 ### 24 novembro | 17h00-20h00
 ### 25 novembro | 17h00-19h00
 ### 27 novembro | 17h00-20h00 
@@ -7,13 +9,42 @@
 ## Formadores
    Carina Silva (ESTeSL-IPL) e Ricardo Ribeiro(ESTeSL-IPL)
    
-
+## O curso será lecionado *on-line* ao vivo usando a plataforma Zoom Colibri
 
 ## Objetivos
-Fornecer informações básicas do _software_ estatístico ![RStudio's logo](https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png){width=0.01%}. O curso é considerado de nível básico, pois apresenta apenas a forma de utilização de ferramentas úteis.
+
 
 ## Programa
 
 
++-----------------------------------+-----------------------------------+
+| **24 novembro**                   |                                   |
+|                                   | Data sources provided by BPLIM.   |
+|                                   |                                   |
+|                                   | *You have                         |
+|                                   | read-only access to this          |
+|                                   | directory.*                       |
++-----------------------------------+-----------------------------------+
+| **25 novembro**                   |                                   |
+|                                   | Output files that                 |
+|                                   | researchers wish to generate      |
+|                                   | and extract from the server.      |
+|                                   |                                   |
+|                                   | *You                              |
+|                                   | have read-write access to this    |
+|                                   | directory.*                       |
++-----------------------------------+-----------------------------------+
+| **27 novembro**                   |                                   |
+|                                   | Specific analysis tools.          |
+|                                   |                                   |
+|                                   | *You have read-only access to     |
+|                                   | this directory.*                  |
++-----------------------------------+-----------------------------------+
 
-O curso está estruturado em dois módulos, descritos abaixo.
+
+## Metodologia de Ensino
+
+
+## 
+
+
