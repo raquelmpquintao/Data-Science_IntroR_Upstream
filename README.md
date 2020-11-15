@@ -10,7 +10,7 @@
 
 
 ## Objetivos
-Fornecer informações básicas do _software_ estatístico ![RStudio's logo](https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png){width=5%}. O curso é considerado de nível básico, pois apresenta apenas a forma de utilização de ferramentas úteis.
+Fornecer informações básicas do _software_ estatístico ![RStudio's logo](https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png){width=0.01%}. O curso é considerado de nível básico, pois apresenta apenas a forma de utilização de ferramentas úteis.
 
 ## Programa
 
