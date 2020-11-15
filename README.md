@@ -1,6 +1,6 @@
 # Introdução-Linguagem-de-Programação-em-R
 
-
+![logos.png]
 
 # Datas 
 Total 8 horas
