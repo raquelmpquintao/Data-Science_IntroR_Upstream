@@ -1,7 +1,11 @@
 # Introdução-Linguagem-de-Programação-em-R
 
-![](Logos.png =100x)
-<img src="" width=300 align=right>
+<img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/Logos.png" width=300 align=left>
+
+<br />
+<br />
+
+
 # Datas 
 Total 8 horas
 
