@@ -1,7 +1,7 @@
 # Introdução-Linguagem-de-Programação-em-R
 
-![logos.png]
-
+![](Logos.png =100x)
+<img src="" width=300 align=right>
 # Datas 
 Total 8 horas
 
