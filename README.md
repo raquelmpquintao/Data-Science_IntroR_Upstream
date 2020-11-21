@@ -31,10 +31,21 @@ Este curso não tem como objetivo lecionar conceitos de Estatística, pelo que o
 
 ## Programa
 
-
-| **24 novembro**                   |                                   |
-| **25 novembro**                   |                                   |
-| **27 novembro**                   |    R Markdown                     |
+Dias                   |       Conteúdos
+----------------------------------------------------------
+**24 novembro**        |        Introdução ao R
+                       |        Construção objetos
+                       |        Scripting
+                       |        Importação de dados
+                       |        Exportação
+                       
+                       
+----------------------------------------------------------
+ **25 novembro**       |         Projetos no R
+                       |         Construção de funções 
+                       
+-------------------------------------------------------------------------
+ **27 novembro**                   |    R Markdown                     
 
 
 
