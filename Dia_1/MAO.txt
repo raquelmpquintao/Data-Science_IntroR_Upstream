@@ -1,4 +1,4 @@
-"n." "MAO.activity" "Diagnosis" "group"
+"MAO.activity" "Diagnosis" "group"
 "01" 6.8 "I" 1
 "02" 9.9 "I" 1
 "03" 7.8 "I" 1
