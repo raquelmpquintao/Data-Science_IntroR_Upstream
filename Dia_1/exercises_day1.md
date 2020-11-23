@@ -95,7 +95,7 @@ xx <- c(29,3,6,11,0,41,101)
 <details><summary>Click Here to see the answer</summary><p>
 
 ```{r}
-xx[c(4,7)]
+xx[4]
 
 ```
 
@@ -127,7 +127,7 @@ length(xx)
 <details><summary>Click Here to see the answer</summary><p>
 
 ```{r}
-xx[4]
+xx[c(4,7)]
 
 ```
 
