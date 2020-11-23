@@ -36,13 +36,13 @@ Este curso não tem como objetivo lecionar conceitos de Estatística, pelo que o
 Dias                   |       Conteúdos
 ----------------------------------------------------------
 **24 novembro**        |        Introdução ao R
-                       |          Objetos no R                  
+                       |        Objetos no R                  
                        |        Scripting
+                       |        Instalação de Packages
                        |        Tipos de dados 
                        |        Importação de dados
                        |        Exportação  de dados    
-                       |        Guardar sessão de trabalho  
-                       
+                                              
 ----------------------------------------------------------
  **25 novembro**       |         Gráficos
                        |         Construção de funções      
