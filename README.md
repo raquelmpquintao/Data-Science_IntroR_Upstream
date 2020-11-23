@@ -37,8 +37,7 @@ Dias                   |       Conteúdos
                        |        Construção objetos
                        |        Scripting
                        |        Importação de dados
-                       |        Exportação
-                       
+                       |        Exportação                    
                        
 ----------------------------------------------------------
  **25 novembro**       |         Projetos no R
