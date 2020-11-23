@@ -6,7 +6,7 @@
 
  <br />
 <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/logo_R.png" width=100 align=left> 
-<img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/logo_RSudio.png" width=400 align=rigth> <br />
+<img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/logo_RSudio.png" width=150 align=rigth> <br />
 
 
 <br />
@@ -21,7 +21,7 @@ Total 8 horas
 ### 27 novembro | 17h00-20h00 
 
 ## Formadores
-  <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/foto_formadores.png" width=100 align=center>
+  <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/foto_formadores.png" width=300 align=center>
    
    
    
