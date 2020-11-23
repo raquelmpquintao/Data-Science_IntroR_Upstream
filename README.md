@@ -6,7 +6,7 @@
 
  <br />
 <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/logo_R.png" width=100 align=left> 
-<img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/logo_RSudio.png" width=150 align=rigth> <br />
+<img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/logo_RSudio.png" width=400 align=rigth> <br />
 
 
 <br />
