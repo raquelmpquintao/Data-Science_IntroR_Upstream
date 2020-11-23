@@ -36,19 +36,22 @@ Este curso não tem como objetivo lecionar conceitos de Estatística, pelo que o
 Dias                   |       Conteúdos
 ----------------------------------------------------------
 **24 novembro**        |        Introdução ao R
-                       |        Construção objetos
+                       |          Objetos no R                  
                        |        Scripting
                        |        Tipos de dados 
                        |        Importação de dados
-                       |        Exportação      
-                       |        Guardar sessão de trabalho                       
+                       |        Exportação  de dados    
+                       |        Guardar sessão de trabalho  
+                       
 ----------------------------------------------------------
  **25 novembro**       |         Gráficos
                        |         Construção de funções      
                        |         Loop
+                       
 ------------------------------------------------------------
  **27 novembro**       |         Projetos no R
-                       |         R Markdown                     
+                       |         R Markdown  
+                       
 -------------------------------------------------------------
 
 
@@ -68,6 +71,8 @@ No final do curso espera-se, utilizando o *software* RStudio, que os formandos s
    - criar documentos PDF, HTML e Word a partir do RMarkdown.
  
    
-  ## 
+
+  
+  
 
 
