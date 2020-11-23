@@ -13,7 +13,7 @@
 <br />
 
 
-# Datas 
+# Datas e Horário
 Total 8 horas
 
 ### 24 novembro | 17h00-20h00
@@ -22,6 +22,8 @@ Total 8 horas
 
 ## Formadores
    Carina Silva (ESTeSL-IPL) e Ricardo Ribeiro(ESTeSL-IPL)
+   
+   
    
 ## O curso será lecionado *on-line* ao vivo usando a plataforma Zoom Colibri
 
@@ -36,30 +38,36 @@ Dias                   |       Conteúdos
 **24 novembro**        |        Introdução ao R
                        |        Construção objetos
                        |        Scripting
+                       |        Tipos de dados 
                        |        Importação de dados
-                       |        Exportação                    
-                       
+                       |        Exportação      
+                       |        Guardar sessão de trabalho                       
 ----------------------------------------------------------
- **25 novembro**       |         Projetos no R
-                       |         Construção de funções 
-                       
--------------------------------------------------------------------------
- **27 novembro**                   |    R Markdown                     
-
+ **25 novembro**       |         Gráficos
+                       |         Construção de funções      
+                       |         Loop
+------------------------------------------------------------
+ **27 novembro**       |         Projetos no R
+                       |         R Markdown                     
+-------------------------------------------------------------
 
 
 ## Metodologia de Ensino
-As horas de contacto serão de ensino teórico-prático. A parte teórica da aula terá como suporte diapositivos que serão disponibilizados. A parte prática será executada em software R studio para a resolução de exercícios aplicados. As aulas serão também apoiadas pela plataforma Git Hub, nomeadamente para disponibilização de material didático.
+As horas de contacto serão de ensino teórico-prático. A parte teórica da aula terá como suporte diapositivos. A parte prática será executada em usando o RStudio para a resolução de exercícios guiados e propostos.
 
 ## Competências
-No final do curso espera-se, utilizando o *software* R, que os formandos sejam capazes de:
+No final do curso espera-se, utilizando o *software* RStudio, que os formandos sejam capazes de:
 
    - realizar operações aritméticas básicas;
-   - compreender e utilizar os diferentes tipos de dados (vetores, matrizes, data frames e listas);
+   - compreender e utilizar os diferentes tipos de dados (vetores, matrizes, dataframes e listas);
    - usar funções e bibliotecas pré-definidas no R;
    - importar e exportar os dados em ficheiros (txt e csv);
-   - criar e exportar gráficos: histograma, gráfico de linha e de dispersão;
-   - criar documentos PDF, HTML e Word a partir do R.
+   - criar e exportar gráficos;
+   - construir as próprias funções;
+   - criar projetos no R;
+   - criar documentos PDF, HTML e Word a partir do RMarkdown.
+ 
    
+  ## 
 
 
