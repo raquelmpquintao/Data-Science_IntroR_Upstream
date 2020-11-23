@@ -21,7 +21,7 @@ Total 8 horas
 ### 27 novembro | 17h00-20h00 
 
 ## Formadores
-  <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/foto_formadores.png" width=300 align=center>
+  <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/foto_formadores.png" width=400 align=center>
    
    
    
