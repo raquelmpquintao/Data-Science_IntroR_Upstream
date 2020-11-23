@@ -56,7 +56,7 @@ Dias                   |       Conteúdos
 
 
 ## Metodologia de Ensino
-As horas de contacto serão de ensino teórico-prático. A parte teórica da aula terá como suporte diapositivos. A parte prática será executada em usando o RStudio para a resolução de exercícios guiados e propostos.
+As horas de contacto serão de ensino teórico-prático.  A parte prática será executada usando o RStudio para a resolução de exercícios guiados e propostos.
 
 ## Competências
 No final do curso espera-se, utilizando o *software* RStudio, que os formandos sejam capazes de:
