@@ -41,7 +41,7 @@ library(xlsx)
 <br/>
 <br/>
 
-**Exercise 2** Use R operators to calculate: i)  (1198/2) - <img src="https://render.githubusercontent.com/render/math?math=sqrt(63)"> + 27?
+**Exercise 2** Use R operators to calculate: i)  (1198/2) - <img src="https://render.githubusercontent.com/render/math?math=\sqrt(63)"> + 27?
 
 
 <br/>
