@@ -42,6 +42,8 @@ library(xlsx)
 <br/>
 
 **Exercise 2** Use R operators to calculate: i)  (1198/2) - $\sqrt(63)$ + 27?
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 <br/>
 
 <details><summary>Click Here to see the answer</summary><p>
