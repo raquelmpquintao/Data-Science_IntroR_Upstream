@@ -7,7 +7,7 @@ Altere o seu directório de trabalho para a pasta 'Propostos_dia1'.
 
 
 **2.** 
-Crie um novo script para executar os comandos desta fcha de exercícios
+Crie um novo _script_ para executar os comandos desta ficha de exercícios
 e guarde-o no seu directório.
 
 **3.** 
