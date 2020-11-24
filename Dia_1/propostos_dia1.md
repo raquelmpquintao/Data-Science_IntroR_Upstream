@@ -64,7 +64,7 @@ entre cada administração. Após cada toma foi avaliada a glicémia e
 para cada fármaco obtiveram-se os seguintes resultados: 167, 245,165.
 Foi ainda avaliada a glicémia antes dos tratamentos: 345.
 
-**20.**16. Realize as seguintes operações:
+**20.** Realize as seguintes operações:
 
 ```{r}
 data(iris)
@@ -72,13 +72,19 @@ plantas<-iris
 plantas
 ```
 (a) A partir do editor do R altere o nome das variáveis para português.
+
 (b) Qual a dimensão da data frame?
+
 (c) Aceda só aos primeiros 15 registos.
+
 (d) Liste só a variável correspodente às espécies.
+
 (e) Identifique as espécies que têm um comprimento da pétala superior
 a 6.
+
 (f) Proceda à operação _attach()_ para aceder directamente às variá-
 veis. Para a espécie "setosa", quantas plantas desta espécie tem
 a largura da sépala inferior a 3.
+
 (g) Proceda à operação _detach()_.
 
