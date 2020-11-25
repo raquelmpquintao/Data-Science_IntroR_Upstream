@@ -25,6 +25,7 @@ For exercises 1 to 8 consider the dataframe _births_ of the Epi package. This da
 
 
 <details><summary>Click Here to see the answer</summary><p>
+ 
 ```{r}
 install.packages("Epi")
 library(Epi)
@@ -32,8 +33,8 @@ library(Epi)
 data(births)
 
 str(births)
-
 ```
+
 </p></details>
 <br/>
 <br/>
@@ -75,6 +76,7 @@ plot(gestwks,bweight)
 <br/>
 
 <details><summary>Click Here to see the answer</summary><p>
+ 
 ```{r}
 plot(matage,bweight,xlab="Mothers age", ylab="Babies Weitgh", pch=16, col="green")
 
@@ -177,6 +179,7 @@ library(lattice)
  <br/>
  
  <details><summary>Click Here to see the answer</summary><p>
+ 
 ```{r}
 histogram(~len|factor(supp),data=ToothGrowth,
           main="Figure 1: Length by Supplement",xlab="Length")
