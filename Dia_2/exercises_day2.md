@@ -16,7 +16,7 @@
 ## Guided exercises
 <br/>
 <br/>
-For exercises 1 to 8 consider the dataframe _births_ of the Epi package. This database regards births of babies in a hospital in England.
+For exercises 1 to 8 consider the dataframe  _births_ of the Epi package. This database regards births of babies in a hospital in England.
 <br/>
 <br/>
 
