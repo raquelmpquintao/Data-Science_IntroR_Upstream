@@ -39,7 +39,7 @@ str(births)
 <br/>
 <br/>
 
-**Exercise 2** Buid a histogram to hte variable _bweigth_
+**Exercise 2** Buid a histogram to the variable _bweigth_
 <br/>
 
 <details><summary>Click Here to see the answer</summary><p>
