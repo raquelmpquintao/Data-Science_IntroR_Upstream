@@ -47,7 +47,7 @@ Remove all of the document text and commands after the metadata section.
 
 
 <details><summary>Click Here to see the answer</summary><p>
-$`r$ ((43 - 17)*.1)^2)$`$
+`r ((43 - 17)*.1)^2)`
 
 </p></details>
 
@@ -63,9 +63,9 @@ $`r$ ((43 - 17)*.1)^2)$`$
 <details><summary>Click Here to see the answer</summary><p>
 A code block
 
-$```\{r\}$<br/>
+```{r}<br/>
 ((43 - 17)*.1)^2 <br/>
-$```$
+```
 
 </p></details>
 <br/>
@@ -77,11 +77,11 @@ $```$
 
 <details><summary>Click Here to see the answer</summary><p>
 
-$```\{r\}$  <br/>
+```{r}  <br/>
 summary(iris)  <br/>
 
 
-$```$
+```
 
 </p></details>
 
@@ -93,10 +93,10 @@ $```$
 
 <details><summary>Click Here to see the answer</summary><p>
 
-$```\{r\}$<br/>
+```{r}<br/>
 plot(iris\$Sepal.Width,iris\$Sepal.Length,col="blue")<br/>
 
-$```$
+```
 
 </p></details>
 
@@ -111,10 +111,10 @@ $```$
 
 <details><summary>Click Here to see the answer</summary><p>
 
-$```\{$r  echo=TRUE$\}$<br/>
+```{r  echo=TRUE}<br/>
 xx <- c(29,3,6,11,0,41,101)<br/>
 
-$```$
+```
 <br/>
 
 <br/>
