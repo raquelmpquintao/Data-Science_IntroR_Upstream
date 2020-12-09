@@ -63,8 +63,8 @@ Remove all of the document text and commands after the metadata section.
 <details><summary>Click Here to see the answer</summary><p>
 A code block
 
-```{r}<br/>
-((43 - 17)*.1)^2 <br/>
+```{r}
+((43 - 17)*.1)^2 
 ```
 
 </p></details>
@@ -77,8 +77,8 @@ A code block
 
 <details><summary>Click Here to see the answer</summary><p>
 
-```{r}  <br/>
-summary(iris)  <br/>
+```{r}  
+summary(iris)  
 
 
 ```
@@ -93,7 +93,7 @@ summary(iris)  <br/>
 
 <details><summary>Click Here to see the answer</summary><p>
 
-```{r}<br/>
+```{r}
 plot(iris\$Sepal.Width,iris\$Sepal.Length,col="blue")<br/>
 
 ```
