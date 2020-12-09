@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 
 # Exercises - Day 3
 
@@ -28,17 +24,6 @@ output: html_document
 Insert a YAML Header with title (R Markdown), author and date of your choice at the top of your .Rmd script and save the file created in  the  project folder created above. 
 Remove all of the document text and commands after the metadata section.
 
-<br/>
-
-
-<details><summary>Click Here to see the answer</summary><p>
-
-
-</p></details>
-<br/>
-<br/>
-
-
 
 
 
@@ -49,7 +34,7 @@ Remove all of the document text and commands after the metadata section.
 
 
 <details><summary>Click Here to see the answer</summary><p>
-$\#\#$ R Markdown
+## R Markdown
 </p></details>
 <br/>
 <br/>
