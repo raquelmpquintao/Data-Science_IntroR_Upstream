@@ -88,7 +88,7 @@ summary(iris)
 <br/>
 <br/>
 
-**Exercise 6**: Make a plot of the “cars” dataset. HINT: Use plot().
+**Exercise 6**: Make a plot of the “iris” dataset. HINT: Use plot().
 <br/>
 
 <details><summary>Click Here to see the answer</summary><p>
@@ -109,12 +109,7 @@ plot(iris\$Sepal.Width,iris\$Sepal.Length,col="blue")<br/>
 
 
 
-<details><summary>Click Here to see the answer</summary><p>
 
-```{r  echo=TRUE}<br/>
-xx <- c(29,3,6,11,0,41,101)<br/>
-
-```
 <br/>
 
 <br/>
