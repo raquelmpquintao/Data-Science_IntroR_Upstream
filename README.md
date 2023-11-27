@@ -7,7 +7,9 @@
 
 <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/Logos.png" width=300 align=left> <br />
  <br />
-<img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/logo_PG.png" width=300 align=left> <br />
+<img src="https://github.com/CarinaSilva/Data-Science_IntroR/blob/main/logo_PG.png" width=300 align=left> <br />
+
+ <br />
  <br />
 ## Introdução à Linguagem de Programação em R
  <br />
