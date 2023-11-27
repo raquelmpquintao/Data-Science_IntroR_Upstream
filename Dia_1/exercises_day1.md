@@ -49,8 +49,7 @@ library(xlsx)
 <details><summary>Click Here to see the answer</summary><p>
 
 ```{r}
-1198/2-sqrt(63)+27
-[1] 618.0627
+1198/2-63+27
 
 ```
 
