@@ -1,7 +1,10 @@
+## Pós-Graduação em Health Data Science 
+### Desenho de Investigação em Organizações de Saúde
 
 
-# Introdução à Linguagem de Programação em R
+## Introdução à Linguagem de Programação em R
 
+<img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/Logos.png" width=300 align=left> <br />
 <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/Logos.png" width=300 align=left> <br />
 
  <br />
