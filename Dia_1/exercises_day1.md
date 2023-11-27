@@ -49,7 +49,7 @@ library(xlsx)
 <details><summary>Click Here to see the answer</summary><p>
 
 ```{r}
-1198/2-63+27
+calc<- 1198/2-63+27
 
 ```
 
