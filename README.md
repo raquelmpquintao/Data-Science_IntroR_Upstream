@@ -4,7 +4,7 @@
  <br />
  <br />
 
-| Coluna 1 | Coluna 2 |
+
 |-----------|-----------|
 | <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/Logos.png" width=300 align=left>| <img src="https://github.com/CarinaSilva/Data-Science_IntroR/blob/main/logo_PG.png" width=280 align=left> |
 
