@@ -41,7 +41,7 @@ library(xlsx)
 <br/>
 <br/>
 
-**Exercise 2** Use R operators to calculate: i)  (1198/2) - 63 + 27?
+**Exercise 2** Use R operators to calculate: i)  (1198/2) - 63 + 27 and store the result in an object?
 
 
 <br/>
