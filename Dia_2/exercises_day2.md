@@ -11,7 +11,7 @@
 **ii)** Open a new R script file and use # to comment and organize your script using the exercise numbers
 
 <br/>
-<br/>
+
 
 ## Guided exercises
 <br/>
