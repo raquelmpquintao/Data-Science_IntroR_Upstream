@@ -152,5 +152,5 @@ xpto
 
 detach(plantas)
 
-
+#o git tinha sido importante de aprender desde inicio 
 
